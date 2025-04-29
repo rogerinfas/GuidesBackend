@@ -16,7 +16,6 @@
 
 - [Introducción](#introducción)
 - [Estructura](#estructura)
-- [Contenido](#contenido) 
 - [Implementación](#implementación)
 - [Contribuciones](#contribuciones)
 
@@ -30,16 +29,6 @@ Bienvenido a esta recopilación meticulosamente curada de guías de programació
 
 El repositorio está organizado siguiendo una arquitectura lógica que facilita la navegación y el descubrimiento de recursos específicos según la necesidad del desarrollador.
 
-## Contenido
-
-Este compendio incluye documentación esencial sobre:
-
-- Arquitecturas y patrones de diseño
-- Optimización de rendimiento
-- Gestión de bases de datos
-- Diseño e implementación de APIs
-- Fundamentos de seguridad informática
-- Prácticas recomendadas en el desarrollo backend
 
 ## Implementación
 
